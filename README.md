@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I’m currently working on<br><br>Developing a football website with interactive features and live updates<br><br>🤝 I’m looking to collaborate on<br><br>Open-source projects related to web development, UI/UX, and frontend design<br><br>🛠 I’m looking for help with<br><br>Mastering React.js and JavaScript<br><br>Improving UI/UX design skills for web projects<br><br>🌱 I’m currently learning<br>Advanced javascript, react.js<br><br>UI/UX design for better web interfaces<br><br>Time management and productivity<br><br>💬 Ask me about<br><br>Web development (React, JavaScript, HTML, CSS)<br><br>My journey as a computer science student<br><br>
+<br>🔭 I’m currently working on<br><br>Developing a football website with interactive features and live updates<br><br>🤝 I’m looking to collaborate on<br><br>Open-source projects related to web development, UI/UX, and frontend design<br><br>🌱 I’m currently learning<br>Advanced javascript, react.js<br><br>UI/UX design for better web interfaces<br><br>Time management and productivity<br><br>💬 Ask me about<br><br>Web development (React, JavaScript, HTML, CSS)<br><br>My journey as a computer science student<br><br>
 
 
 ## 🌐 Socials:
